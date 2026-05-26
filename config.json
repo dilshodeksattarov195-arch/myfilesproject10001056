@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacherarse",
+        "uuid": 163680,
+        "checksum": "7k684l"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
